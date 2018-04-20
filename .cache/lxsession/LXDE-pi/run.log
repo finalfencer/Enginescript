@@ -1,0 +1,894 @@
+** Message: environement.vala:58: Exporting primary_variable
+** Message: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:149: confir_dirs is null, export : /etc/xdg
+** Message: environement.vala:183: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:217: custom_data :
+** Message: environement.vala:218: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:219: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:224: Exporting XDG_DATA_DIRS
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:527: Key file does not have key 'iGtk/ColorScheme'
+** Message: settings.vala:527: Key file does not have key 'windows_manager/command'
+** Message: settings.vala:527: Key file does not have key 'panel/command'
+** Message: settings.vala:527: Key file does not have key 'dock/command'
+** Message: settings.vala:527: Key file does not have key 'file_manager/command'
+** Message: settings.vala:527: Key file does not have key 'desktop_manager/command'
+** Message: settings.vala:527: Key file does not have key 'launcher_manager/autostart'
+** Message: settings.vala:527: Key file does not have key 'composite_manager/command'
+** Message: settings.vala:527: Key file does not have key 'im1/command'
+** Message: settings.vala:527: Key file does not have key 'im2/command'
+** Message: settings.vala:527: Key file does not have key 'widget1/command'
+** Message: settings.vala:527: Key file does not have key 'notification/command'
+** Message: settings.vala:527: Key file does not have key 'keybindings/command'
+** Message: settings.vala:527: Key file does not have key 'screensaver/command'
+** Message: settings.vala:527: Key file does not have key 'power_manager/command'
+** Message: settings.vala:527: Key file does not have key 'audio_manager/command'
+** Message: settings.vala:527: Key file does not have key 'workspace_manager/command'
+** Message: settings.vala:527: Key file does not have key 'screenshot_manager/command'
+** Message: settings.vala:527: Key file does not have key 'message_manager/command'
+** Message: settings.vala:527: Key file does not have key 'upgrade_manager/command'
+** Message: settings.vala:527: Key file does not have key 'upstart_user_session'
+** Message: settings.vala:527: Key file does not have key 'proxy_manager/http'
+** Message: settings.vala:527: Key file does not have key 'a11y/command'
+** Message: settings.vala:527: Key file does not have key 'xrandr/command'
+** Message: settings.vala:527: Key file does not have key 'network_gui/command'
+** Message: settings.vala:527: Key file does not have key 'webbrowser/command'
+** Message: settings.vala:527: Key file does not have key 'email/command'
+** Message: settings.vala:527: Key file does not have key 'pdf_reader/command'
+** Message: settings.vala:527: Key file does not have key 'video_player/command'
+** Message: settings.vala:527: Key file does not have key 'audio_player/command'
+** Message: settings.vala:527: Key file does not have key 'images_display/command'
+** Message: settings.vala:527: Key file does not have key 'text_editor/command'
+** Message: settings.vala:527: Key file does not have key 'archive/command'
+** Message: settings.vala:527: Key file does not have key 'charmap/command'
+** Message: settings.vala:527: Key file does not have key 'calculator/command'
+** Message: settings.vala:527: Key file does not have key 'spreadsheet/command'
+** Message: settings.vala:527: Key file does not have key 'bittorent/command'
+** Message: settings.vala:527: Key file does not have key 'document/command'
+** Message: settings.vala:527: Key file does not have key 'webcam/command'
+** Message: settings.vala:527: Key file does not have key 'burn/command'
+** Message: settings.vala:527: Key file does not have key 'notes/command'
+** Message: settings.vala:527: Key file does not have key 'disk_utility/command'
+** Message: settings.vala:527: Key file does not have key 'tasks/command'
+** Message: settings.vala:527: Key file does not have group 'Keymap'
+** Message: settings.vala:527: Key file does not have key 'laptop_mode'
+** Message: settings.vala:527: Key file does not have key 'gnome'
+** Message: settings.vala:527: Key file does not have group 'Updates'
+** Message: settings.vala:527: Key file does not have key 'type'
+** Message: settings.vala:449: Monitoring: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:453: Desktop file is already in config home, do nothing
+** Message: environement.vala:79: Exporting variable
+** Message: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: environement.vala:176: custom_config :
+** Message: environement.vala:177: config_dirs :/etc/xdg
+** Message: environement.vala:178: confir_dirs not null, export : /etc/xdg
+** Message: environement.vala:183: Exporting XDG_CONFIG_DIRS
+** Message: environement.vala:217: custom_data :
+** Message: environement.vala:218: data_dirs :/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:219: data_dirs not null, export : /usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: environement.vala:224: Exporting XDG_DATA_DIRS
+** Message: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: options.vala:164: Activate xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: app.vala:717: polkit separate
+** Message: app.vala:717: polkit separate
+** Message: app.vala:76: Launching lxpolkit 
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: autostart.vala:42: Autostart path : /home/pi/.config/lxsession/LXDE-pi/autostart
+** Message: app.vala:76: Launching lxpanel 
+** Message: app.vala:76: Launching pcmanfm 
+
+** (lxsession:730): WARNING **: app.vala:86: Failed to execute child process "xscreensaver" (No such file or directory)
+
+** (lxsession:730): WARNING **: app.vala:87: Error when launching xscreensaver
+** Message: app.vala:76: Launching sh 
+sh: 0: Can't open ${HOME}/.config/lxsession/LXDE-pi/autokey.sh
+** Message: options.vala:107: Create build-in Clipboard
+** Message: main.vala:429: Check keymap_mode (null)
+** Message: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-9UjM4tHBwg7w/agent.789; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=791; export SSH_AGENT_PID;
+echo Agent pid 791;
+Obt-Message: Xinerama extension is not present on the server
+** Message: app.vala:130: sh exit with this type of exit: 32512
+** Message: app.vala:148: Exit not normal, try to reload
+** Message: app.vala:76: Launching sh 
+** Message: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+sh: 0: Can't open ${HOME}/.config/lxsession/LXDE-pi/autokey.sh
+** Message: app.vala:130: sh exit with this type of exit: 32512
+** Message: app.vala:148: Exit not normal, try to reload
+sh: 0: Can't open ${HOME}/.config/lxsession/LXDE-pi/autokey.sh
+** Message: app.vala:76: Launching sh 
+** Message: app.vala:130: sh exit with this type of exit: 32512
+** Message: app.vala:148: Exit not normal, try to reload
+** Message: app.vala:76: Launching sh 
+sh: 0: Can't open ${HOME}/.config/lxsession/LXDE-pi/autokey.sh
+** Message: app.vala:130: sh exit with this type of exit: 32512
+** Message: app.vala:148: Exit not normal, try to reload
+** Message: app.vala:76: Launching sh 
+sh: 0: Can't open ${HOME}/.config/lxsession/LXDE-pi/autokey.sh
+** Message: app.vala:130: sh exit with this type of exit: 32512
+** Message: app.vala:148: Exit not normal, try to reload
+** Message: app.vala:76: Launching sh 
+sh: 0: Can't open ${HOME}/.config/lxsession/LXDE-pi/autokey.sh
+** Message: app.vala:130: sh exit with this type of exit: 32512
+** Message: app.vala:148: Exit not normal, try to reload
+** Message: app.vala:156: Application crashed too much, stop reloading
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: x-terminal-emulator has very limited support, consider choose another terminal
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Connecting ...
+** Message: Status changed to down
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: Status changed to opened
+** Message: Connected to dhcpcd-6.7.1
+** Message: Status changed to disconnected
+** Message: eth0: Link is down
+** Message: wlan0: Not associated
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Associated with ATTIshs9qs
+** Message: Status changed to connecting
+** Message: wlan0: Configured 2600:1700:1c00:16e0::22/128
+** Message: Status changed to connected
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: wlan0: Configured 192.168.1.154/24
+** Message: wlan0: Received scan results
+** Message: wlan0: Disassociated from ATTIshs9qs
+** Message: Status changed to disconnected
+** Message: wlan0: Associated with ATTIshs9qs
+** Message: Status changed to connecting
+** Message: wlan0: Configured 192.168.1.154/24
+** Message: Status changed to connected
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Configured 2600:1700:1c00:16e0::22/128
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+** (epiphany-browser:1654): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+
+** (epiphany-browser:1654): WARNING **: Error caching form data: The name org.freedesktop.secrets was not provided by any .service files
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: wlan0: Received scan results
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+
+(epiphany-browser:1654): GLib-GIO-WARNING **: Error on netlink socket: Error receiving message: No buffer space available
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+/usr/lib/python2.7/dist-packages/lxkeymap/helpers.py:46: GtkWarning: Unknown property: GtkMenu.ubuntu-local
+  builder.add_from_file(ui_filename)
+/usr/lib/python2.7/dist-packages/lxkeymap/helpers.py:46: GtkWarning: GtkAlignment does not have a property called expand
+  builder.add_from_file(ui_filename)
+/usr/lib/python2.7/dist-packages/lxkeymap/helpers.py:46: GtkWarning: GtkAlignment does not have a property called fill
+  builder.add_from_file(ui_filename)
+/usr/lib/python2.7/dist-packages/lxkeymap/helpers.py:46: GtkWarning: GtkAlignment does not have a property called position
+  builder.add_from_file(ui_filename)
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: settings.vala:496: Desktop file change, reloading XSettings daemon
+** Message: options.vala:186: Reload xsettings_manager build-in
+** Message: utils.vala:68: User config used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: utils.vala:89: Final file used : /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: settings.vala:490: Reload the xsettings option
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 5520 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 6600 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 8074 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: wlan0: Received scan results
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-t4Ya3FkL+mmkkQckuHyHEcScumk''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-rr6eHGn/eIjuKaHTW3lCbcNBQb0''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-rr6eHGn/eIjuKaHTW3lCbcNBQb0''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-rr6eHGn/eIjuKaHTW3lCbcNBQb0''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-rr6eHGn/eIjuKaHTW3lCbcNBQb0''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-Paq12FnXMw6IWIvYTRwiiNGcAIo''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 8699 was not found when attempting to remove it
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 15647 was not found when attempting to remove it
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cRTb/OcrW47KSSOPc0r9J+6zqLs''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cRTb/OcrW47KSSOPc0r9J+6zqLs''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cRTb/OcrW47KSSOPc0r9J+6zqLs''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cRTb/OcrW47KSSOPc0r9J+6zqLs''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-1I+RVvA4uyvZtzxMpru3b03O0k4''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 16280 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-MLSdHxNipQ6bXtPHFEif''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-MLSdHxNipQ6bXtPHFEif''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-MLSdHxNipQ6bXtPHFEif''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-H9zfyOKsVVif6zP7XadodyOHWz8''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 18388 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-MLSdHxNipQ6bXtPHFEif''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-7bP3fZhUpxzkDMfZvRz+RsXiTqM''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-MLSdHxNipQ6bXtPHFEif''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-aGG2amyr53KNQwaEmVqI9g2y9og''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: wlan0: Received scan results
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-jUSIau/qYjeA9Jx6PTJ8''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message: https://support.google.com/ @740: The page at https://support.google.com/ displayed insecure content from http://services.google.com/fh/files/helpcenter/lg_32.png.
+
+
+** Message: console message: https://support.google.com/ @740: The page at https://support.google.com/ displayed insecure content from http://www.gstatic.com/images/branding/product/1x/clips_32dp.png.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-jUSIau/qYjeA9Jx6PTJ8''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-2GvwPnZVpiQhplzn22g9''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-2GvwPnZVpiQhplzn22g9''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-2GvwPnZVpiQhplzn22g9''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-mOTMBRCB152ER0qDrDg8uqBKoes''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-2GvwPnZVpiQhplzn22g9''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-w7eLBBQhQA6yYc7cWHOWvx3KFOg''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 23515 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 37788 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cusuT8bCn4mz1AKVvxu1''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cusuT8bCn4mz1AKVvxu1''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cusuT8bCn4mz1AKVvxu1''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-xjis2CBJZcGXxnjiasbUvvbk/jE''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 46864 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-cusuT8bCn4mz1AKVvxu1''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-w7eLBBQhQA6yYc7cWHOWvx3KFOg''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 49087 was not found when attempting to remove it
+** Message: console message: https://www.att.com/scripts/satellite/prod/8bb7555f31d461fe2aef4e2d53a11a03e7f9a04c/scripts/satellite-54dcf7c934653000164e0300.js?b30a2f93 @1: DEDM: 00:40:12.296 -> getConfig: configuration path "page.media.productInFocusDeviceMake  " is not found.
+
+** Message: console message: https://www.att.com/scripts/satellite/prod/8bb7555f31d461fe2aef4e2d53a11a03e7f9a04c/scripts/satellite-54dcf7c934653000164e0300.js?b30a2f93 @1: DEDM: 00:40:15.097 -> getConfig: configuration path "page.media.productInFocusDeviceMake  " is not found.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-yGtcdTkOkn9vxI0xr/PWSwQW2so''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 49747 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-DOqw/OO7mP+xm0Gehcrx''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-DOqw/OO7mP+xm0Gehcrx''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-DOqw/OO7mP+xm0Gehcrx''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-WHYdvbtEjTzN3uIHH6OHgRGJKSw''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 53883 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-DOqw/OO7mP+xm0Gehcrx''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-w7eLBBQhQA6yYc7cWHOWvx3KFOg''. It will be ignored.
+
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''strict-dynamic''. It will be ignored.
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'base-uri'.
+
+
+** Message: wlan0: Received scan results
+
+(openbox:779): GLib-CRITICAL **: Source ID 7 was not found when attempting to remove it
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+
+(openbox:779): GLib-CRITICAL **: Source ID 8 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 56208 was not found when attempting to remove it
+** Message: console message:  @0: Unrecognized Content-Security-Policy directive 'frame-ancestors'.
+
+
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 80344 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(openbox:779): GLib-CRITICAL **: Source ID 11 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+
+(epiphany-browser:1654): GLib-CRITICAL **: Source ID 84117 was not found when attempting to remove it
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(pcmanfm:785): Gtk-WARNING **: Radio group does not contain an action with value '0'
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: console message:  @0: The source list for Content Security Policy directive 'script-src' contains an invalid source: ''nonce-rHUJay3h4dN2IZR2Xtw4u9Y8fcE''. It will be ignored.
+
+** Message: wlan0: Received scan results
+
+** (alacarte:20770): WARNING **: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(alacarte:20770): Gtk-CRITICAL **: gtk_accel_label_set_accel_closure: assertion 'gtk_accel_group_from_accel_closure (accel_closure) != NULL' failed
+
+(alacarte:20770): Gtk-CRITICAL **: gtk_accel_label_set_accel_closure: assertion 'gtk_accel_group_from_accel_closure (accel_closure) != NULL' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(alacarte:20770): GLib-GIO-WARNING **: Missing callback called fullpath = /home/pi/.config/menus/lxde-pi-applications.menu
+
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+
+(lxpanel:784): GLib-GObject-CRITICAL **: g_object_get_data: assertion 'G_IS_OBJECT (object)' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_dialog_response: assertion 'GTK_IS_DIALOG (dialog)' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
+
+(openbox:779): GLib-CRITICAL **: Source ID 12 was not found when attempting to remove it
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+
+(lxpanel:784): Gtk-CRITICAL **: IA__gtk_misc_set_alignment: assertion 'GTK_IS_MISC (misc)' failed
+** Message: wlan0: Received scan results
+** Message: wlan0: Received scan results
+** Message: wlan0: Configured 2600:1700:1c00:16e0:3433:4058:22ca:446a/64
+** Message: wlan0: Received scan results
